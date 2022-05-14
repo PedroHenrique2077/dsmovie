@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Listing from './pages/Listing';
 import Form from './pages/form';
+import './index.css'
 
 function App() {
   return (
@@ -23,3 +24,4 @@ function App() {
 }
 
 export default App;
+
